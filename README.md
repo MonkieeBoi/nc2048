@@ -1,4 +1,4 @@
-2048 (with ncurses XD)
+2048 (with notcurses XD)
 
 Plan:
 a) Figure out how to draw a line.
